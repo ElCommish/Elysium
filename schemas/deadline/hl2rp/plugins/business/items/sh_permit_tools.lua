@@ -1,0 +1,5 @@
+ITEM.name = "Tools Writ"
+ITEM.desc = "A writ from the Crimson Caravan ensuring the wholesale trade of hand tools."
+ITEM.model = "models/props_lab/clipboard.mdl"
+ITEM.category = "Permits"
+ITEM.price = "999e+9"

@@ -1,0 +1,7 @@
+"sample"
+{
+	"base"		"nutscript"
+	"title"		"23rd Century RP"
+	"author"	"Chessnut & virtualFear"
+	"menusystem"	"1"
+}

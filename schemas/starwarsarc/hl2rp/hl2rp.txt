@@ -1,0 +1,7 @@
+"sample"
+{
+	"base"		"nutscript"
+	"title"		"Army of One"
+	"author"	"Chessnut & Sithtress"
+	"menusystem"	"1"
+}

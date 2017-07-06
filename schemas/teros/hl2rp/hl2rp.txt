@@ -1,0 +1,7 @@
+"sample"
+{
+	"base"		"nutscript"
+	"title"		"Teros Medieval Fantasy"
+	"author"	"Chessnut & virtualFear"
+	"menusystem"	"1"
+}
